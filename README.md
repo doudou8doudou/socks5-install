@@ -11,6 +11,9 @@ yum -y install wget curl
 
 wget https://raw.githubusercontent.com/qinghuas/socks5-install/master/socks5.sh;bash socks5.sh
 ```
+```
+bash <(curl -sSL https://github.com/doudou8doudou/socks5-install/raw/refs/heads/main/socks5.sh)
+```
 ![](https://i.loli.net/2018/03/25/5ab743d5c479b.png)
 
 使用命令 `socks5 install` 来编译安装Socks5
